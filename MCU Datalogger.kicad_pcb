@@ -135,7 +135,7 @@
 
   (footprint "MountingHole:MountingHole_2.1mm" (layer "F.Cu")
     (tedit 5B924765) (tstamp 0161829d-64ca-434f-8dbf-b1edba6e39e2)
-    (at 137.16 101.6)
+    (at 137.16 102.87)
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (property "Sheetfile" "MCU Datalogger.kicad_sch")
@@ -453,7 +453,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 4853a61e-606b-4926-afa4-ae3cce164481)
-    (at 121.285 100.965 90)
+    (at 122.565 100.965 90)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Purpose" "Serial UART")
@@ -589,7 +589,7 @@
 
   (footprint "MountingHole:MountingHole_2.1mm" (layer "F.Cu")
     (tedit 5B924765) (tstamp 650a66ff-e119-44e7-aad5-b92ce9ab0288)
-    (at 91.44 76.2)
+    (at 92.075 74.93)
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (property "Sheetfile" "MCU Datalogger.kicad_sch")
@@ -900,7 +900,7 @@
 
   (footprint "MountingHole:MountingHole_2.1mm" (layer "F.Cu")
     (tedit 5B924765) (tstamp 9761f5ba-9494-43b7-9a07-2bdbe73dd6b3)
-    (at 91.44 101.6)
+    (at 92.075 102.87)
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (property "Sheetfile" "MCU Datalogger.kicad_sch")
@@ -1010,7 +1010,7 @@
 
   (footprint "MountingHole:MountingHole_2.1mm" (layer "F.Cu")
     (tedit 5B924765) (tstamp abfed371-a583-44a1-b56e-47a7d2821acf)
-    (at 137.16 76.2)
+    (at 137.16 74.93)
     (descr "Mounting Hole 2.1mm, no annular")
     (tags "mounting hole 2.1mm no annular")
     (property "Sheetfile" "MCU Datalogger.kicad_sch")
@@ -1436,7 +1436,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp e0310ab4-be8a-4eda-bd4b-0423c4b05c75)
-    (at 95.885 100.965 90)
+    (at 97.155 100.965 90)
     (descr "Through hole straight pin header, 1x09, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x09 2.54mm single row")
     (property "Purpose" "GPIO")
@@ -1593,6 +1593,13 @@
     )
   )
 
-  (gr_rect (start 88.9 73.66) (end 139.7 104.14) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 8c5c2b6a-1411-4ac4-8daf-3b050ea29de2))
+  (gr_arc (start 92.075 74.93) (end 95.25 74.93) (angle -270) (layer "Edge.Cuts") (width 0.1) (tstamp 29bfb391-0f9b-490d-977b-4fca333b369d))
+  (gr_arc (start 137.16 74.93) (end 133.985 74.93) (angle 270) (layer "Edge.Cuts") (width 0.1) (tstamp 3ed96e43-c0c6-41a8-bccd-634854ced4ca))
+  (gr_line (start 137.16 99.695) (end 137.16 78.105) (layer "Edge.Cuts") (width 0.1) (tstamp 5bffff47-a906-42a8-9c3c-30319e171d0b))
+  (gr_arc (start 137.16 102.87) (end 137.16 99.695) (angle 270) (layer "Edge.Cuts") (width 0.1) (tstamp 6ceb99d2-d538-4c55-865c-d17ab729c978))
+  (gr_line (start 133.985 74.93) (end 95.25 74.93) (layer "Edge.Cuts") (width 0.1) (tstamp 8498e24b-aa9d-4fa2-98a8-94810ab6d93a))
+  (gr_arc (start 92.075 102.87) (end 92.075 99.695) (angle -270) (layer "Edge.Cuts") (width 0.1) (tstamp 910c0bd2-b277-4f5e-847f-b2dcf1bde051))
+  (gr_line (start 92.075 78.105) (end 92.075 99.695) (layer "Edge.Cuts") (width 0.1) (tstamp e27793ac-067b-4287-af17-845ab51b27a4))
+  (gr_line (start 95.25 102.87) (end 133.985 102.87) (layer "Edge.Cuts") (width 0.1) (tstamp e35b2e8d-17a5-46f3-a49b-a70bae72caf9))
 
 )
