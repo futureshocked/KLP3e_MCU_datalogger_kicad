@@ -1469,6 +1469,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c5eed755-ce7e-4ea4-be6b-232a0bef5729)
   )
+  (label "Vcc" (at 255.27 38.1 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 44fbe767-7aa9-4a5f-8004-4cf9a73e780c)
+  )
 
   (symbol (lib_id "power:PWR_FLAG") (at 113.03 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)

@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -8,7 +8,7 @@
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
-      "tracks": 1.0,
+      "tracks": 0.9200000166893005,
       "vias": 1.0,
       "zones": 0.6
     },
@@ -19,12 +19,12 @@
       "graphics": false,
       "keepouts": false,
       "lockedItems": false,
-      "otherItems": false,
+      "otherItems": true,
       "pads": false,
-      "text": false,
+      "text": true,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -62,8 +62,8 @@
       35,
       36
     ],
-    "visible_layers": "7ffffff_80000001",
-    "zone_display_mode": 0
+    "visible_layers": "7fcffff_80000000",
+    "zone_display_mode": 2
   },
   "meta": {
     "filename": "MCU Datalogger.kicad_prl",
