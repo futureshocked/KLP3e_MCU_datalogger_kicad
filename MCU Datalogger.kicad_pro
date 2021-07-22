@@ -393,7 +393,9 @@
     "meta": {
       "version": 1
     },
-    "net_colors": null
+    "net_colors": {
+      "/Abc123": "rgb(194, 0, 194)"
+    }
   },
   "pcbnew": {
     "last_paths": {
