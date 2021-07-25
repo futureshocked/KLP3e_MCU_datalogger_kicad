@@ -1,4 +1,6 @@
 .DS_Store
 fp-info-cache
 MCU Datalogger-backups/*
-MCUDataloggerGerber/*
+MCU Datalogger.xml
+2_layer_MCU_Datalogger_Gerbers/*
+4_layer_MCU_Datalogger_Gerbers/*
