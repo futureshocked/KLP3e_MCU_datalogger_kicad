@@ -400,7 +400,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "MCU Datalogger.dsn",
       "step": "",
       "vrml": ""
     },
