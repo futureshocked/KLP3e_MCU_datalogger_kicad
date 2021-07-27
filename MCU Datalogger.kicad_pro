@@ -119,21 +119,12 @@
       "track_widths": [
         0.0,
         0.1,
-        0.15,
-        0.5
+        0.15
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.35
-        },
-        {
-          "diameter": 0.9,
-          "drill": 0.75
         }
       ],
       "zones_allow_external_fillets": false,
@@ -409,7 +400,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "MCU Datalogger.dsn",
+      "specctra_dsn": "",
       "step": "",
       "vrml": ""
     },
