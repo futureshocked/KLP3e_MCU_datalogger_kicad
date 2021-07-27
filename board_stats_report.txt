@@ -1,0 +1,43 @@
+PCB statistics report
+=====================
+- Date: Wednesday, 28 July 2021 at 08:43:23 am
+- Project: MCU Datalogger
+- Board name: MCU Datalogger
+
+Board
+-----
+- Width: 51.4350 mm
+- Height: 34.2900 mm
+- Area: 1354.4833 sq. mm
+
+Pads
+----
+- Through hole: 25
+- SMD: 88
+- Connector: 0
+- NPTH: 4
+
+Vias
+----
+- Through vias: 23
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|        | Front Side | Back Side | Total |
+|--------|------------|-----------|-------|
+|THT:    |         7  |        0  |    7  |
+|SMD:    |        18  |        0  |   18  |
+|Total:  |        25  |        0  |   25  |
+|        |            |           |       |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    25 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    23 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     4 | Round | 2.1000 mm | 2.1000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
