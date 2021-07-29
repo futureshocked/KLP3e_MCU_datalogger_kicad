@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/24569). 
+
 # MCU datalogger, a Kicad project
 
 This is the repository for the "MCU datalogger" project.
