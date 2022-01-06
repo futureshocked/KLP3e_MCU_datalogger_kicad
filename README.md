@@ -4,4 +4,4 @@ View this project on [CADLAB.io](https://cadlab.io/project/24569).
 
 This is the repository for the "MCU datalogger" project.
 
-This is one of the projects from the course KiCad Like a Pro, 3rd edition.
+This is one of the projects from the course [KiCad Like a Pro, 3rd edition](https://techexplorations.com/so/kicad-like-a-pro-3rd-edition/).
