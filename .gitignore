@@ -5,3 +5,6 @@ fp-info-cache
 MCU Datalogger-backups/*
 2_layer_MCU_Datalogger_Gerbers/*
 4_layer_MCU_Datalogger_Gerbers/*
+#auto_saved_files#
+*.kicad_sch.lck
+*.kicad_pcb.lck
